@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.65b0eabc.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.ed82416f.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ed82416f.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.5571fc31.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.5571fc31.js.map",
+    "static/js/2.7bbc9e7b.chunk.js": "/react-portfolio/static/js/2.7bbc9e7b.chunk.js",
+    "static/js/2.7bbc9e7b.chunk.js.map": "/react-portfolio/static/js/2.7bbc9e7b.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.558c268d055026237727125ae01de79d.js": "/react-portfolio/precache-manifest.558c268d055026237727125ae01de79d.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.65b0eabc.chunk.css.map": "/react-portfolio/static/css/main.65b0eabc.chunk.css.map",
+    "static/js/2.7bbc9e7b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.7bbc9e7b.chunk.js.LICENSE.txt",
+    "static/media/amanda.jpg": "/react-portfolio/static/media/amanda.b704d0d0.jpg",
+    "static/media/main.css": "/react-portfolio/static/media/hero.ac0c5a46.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5571fc31.js",
+    "static/js/2.7bbc9e7b.chunk.js",
+    "static/css/main.65b0eabc.chunk.css",
+    "static/js/main.ed82416f.chunk.js"
+  ]
+}
