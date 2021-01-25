@@ -1,0 +1,45 @@
+body, html {
+	height: 100%;
+}
+
+.temp {
+	
+	height:50vh;
+	background-color:gainsboro;
+	font-size:36px;
+	border: 10px darkslategray solid;
+	
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: linear-gradient(rgba(0, 40, 255, 0.65), rgba(0, 255, 200, 0.85)), url("../resources/hero.jpg");
+
+  /* Set a specific height */
+  height: 100vh;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 85%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+.head-shot {
+  width: 15vmin;
+  height: 18vmin;
+  object-fit: cover; 
+  left: 30%;
+  border: 2px solid black;
+  margin-right: 10px;
+}
